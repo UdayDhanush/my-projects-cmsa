@@ -37,19 +37,19 @@ This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS and R
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/manjunath-23/manjunath-23.github.io) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/udaydhanush/dhanush.github.io) or just clone the project using this command. 
 
 
 ```
 Using HTTPS
 
-# git clone  https://github.com/manjunath-23/manjunath-23.github.io
+# git clone  https://github.com/udaydhanush/dhanush.github.io
 ```
 
 + Open terminal on your workspace with
 
 ```
-cd /home/workspace/manjunath-23.github.io
+cd /home/workspace/udaydhanush.github.io
 ```
 
 
@@ -107,12 +107,6 @@ npm run dev
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Manjunath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-manjunath-b0640b213//)
+[![linkedin](https://img.shields.io/badge/Manjunath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-dhanush-k-92a385217//)
 
-© 2022 Manjunath
-
-
-
-## Show your support
-
-Thank you B.Bhaskara Rao Sir and Yeswanth Sir for your Support throughout the Project
+© 2022 Uday Dhanush
